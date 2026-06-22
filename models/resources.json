@@ -1,0 +1,51 @@
+{
+  "behavioral": [
+    {
+      "title": "The STAR Method for Interview Questions",
+      "url": "https://www.themuse.com/advice/star-interview-method",
+      "description": "Learn how to structure strong behavioral interview answers."
+    }
+  ],
+  "technical": [
+    {
+      "title": "Technical Interview Preparation",
+      "url": "https://www.coursera.org/articles/technical-interview",
+      "description": "A general guide to preparing for technical interviews."
+    }
+  ],
+  "situational": [
+    {
+      "title": "Situational Interview Questions",
+      "url": "https://www.indeed.com/career-advice/interviewing/situational-interview-questions-and-answers",
+      "description": "Examples of situational questions and how to answer them."
+    }
+  ],
+  "leadership": [
+    {
+      "title": "Leadership Skills: Definitions and Examples",
+      "url": "https://www.indeed.com/career-advice/resumes-cover-letters/leadership-skills",
+      "description": "Build and explain leadership skills in professional settings."
+    }
+  ],
+  "communication": [
+    {
+      "title": "Communication Skills for Career Success",
+      "url": "https://www.coursera.org/articles/communication-skills",
+      "description": "Improve clarity and confidence in interviews."
+    }
+  ],
+  "time_management": [
+    {
+      "title": "Time Management Skills",
+      "url": "https://www.indeed.com/career-advice/career-development/time-management-skills",
+      "description": "Learn practical ways to manage time and priorities effectively."
+    }
+  ],
+  "safety": [
+    {
+      "title": "Workplace Safety Tips",
+      "url": "https://www.safetyculture.com/topics/workplace-safety/",
+      "description": "General workplace safety practices and awareness."
+    }
+  ]
+}
